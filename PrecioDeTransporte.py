@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QMessageBox
+from PyQt5.QtGui import QIcon  # <-- Importamos QIcon
 
 class TransporteApp(QWidget):
     def __init__(self):
@@ -7,9 +9,10 @@ class TransporteApp(QWidget):
         self.initUI()
     
     def initUI(self):
-        # Título y tamaño de ventana
+        # Título, tamaño e ícono de ventana
         self.setWindowTitle("Cálculo de gasto en transporte - El Salvador")
         self.setGeometry(200, 200, 400, 250)
+        self.setWindowIcon(QIcon("bus.png"))  # <-- Ícono agregado
         
         # Layout principal
         layout = QVBoxLayout()
@@ -84,4 +87,3 @@ if __name__ == "__main__":
     ventana = TransporteApp()
     ventana.show()
     sys.exit(app.exec_())
-# -*- coding: utf-8 -*-
