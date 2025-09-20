@@ -10,8 +10,10 @@ Grupo:
  A3
 
 Integrantes:
-Omar David Ventura Cruz
-Brayan Adaly Campos Martínez
+- Omar David Ventura Cruz,
+- Brayan Adaly Campos Martínez
 
 Fecha de entrega: 
-19/09/2025  
+19/09/2025 
+
+
