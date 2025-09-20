@@ -10,7 +10,7 @@ Grupo:
  A3
 
 Integrantes:
-Omar David Ventura Cruz,
+Omar David Ventura Cruz
 Brayan Adaly Campos Martínez
 
 Fecha de entrega: 
