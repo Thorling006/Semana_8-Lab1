@@ -17,6 +17,11 @@ Fecha de entrega:
 19/09/2025 
 
 
+
+
+
+
+
 - Problemática
 
 En El Salvador, una gran parte de la población utiliza a diario el transporte público, especialmente autobuses y microbuses, para movilizarse hacia sus actividades cotidianas. Sin embargo, muchas personas no llevan un control exacto del dinero que destinan al transporte, lo que dificulta la planificación de su presupuesto personal o familiar.
